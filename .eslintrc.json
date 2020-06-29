@@ -9,6 +9,7 @@
     "no-process-exit": "off",
     "object-shorthand": "off",
     "class-methods-use-this": "off",
+    "react/no-is-mounted": "off",
     "react/jsx-one-expression-per-line": "off"
     //"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }] //Permit .js file extension
   },
