@@ -14,7 +14,7 @@
     //"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }] //Permit .js file extension
   },
   "parserOptions": {
-    "ecmaVersion": 6,
+    "ecmaVersion": 2018,
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true
