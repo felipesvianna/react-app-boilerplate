@@ -13,7 +13,6 @@ Boilerplate with testing environment and linting for VS Code with Prettier using
 ```
 git clone https://github.com/felipesvianna/react-app-boilerplate.git
 npm install
-npx npm-check-updates -u
 ```
 
 ## Getting Started
@@ -47,6 +46,7 @@ Add additional notes about how to deploy this on a live system.
 - React
 - Jest
 - Eslint
+- PropTypes
 
 ### Testing Environment
 
