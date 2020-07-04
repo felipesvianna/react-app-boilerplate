@@ -1,6 +1,6 @@
 {
   "extends": ["airbnb", "prettier"],
-  "plugins": ["prettier"],
+  "plugins": ["prettier", "react-hooks"],
   "rules": {
     "prettier/prettier": "error",
     "no-unused-vars": "warn",
@@ -10,7 +10,8 @@
     "object-shorthand": "off",
     "class-methods-use-this": "off",
     "react/no-is-mounted": "off",
-    "react/jsx-one-expression-per-line": "off"
+    "react/jsx-one-expression-per-line": "off",
+    "react-hooks/exhaustive-deps": "warn"
     //"react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }] //Permit .js file extension
   },
   "parserOptions": {
