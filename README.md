@@ -80,7 +80,7 @@ _These packages are already installed and configured on .eslintrc.json and .pret
 - Prettier and ESLint
 
 ```
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node eslint-plugin-react-hooks@next
 ```
 
 - Airbnb Javascript Style
